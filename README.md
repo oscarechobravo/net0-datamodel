@@ -1,4 +1,4 @@
-# net0-datamodel
+# net0_datamodel
 Data Model for processing building energy data, including business/organisational, meta data and context.
 
 This data model is to standardise building and energy data for working through data analysis tools. The tools we started developing are grounded in the [Energy Information Handbook: Application for Energy-Efficient Building Operations](https://buildings.lbl.gov/publications/energy-information-handbook).
